@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Metaverse Collaboration Platform
 
 A Metaverse-style browser workspace with:
@@ -30,3 +31,6 @@ See the full architecture and stack study:
 3. Open the app at the printed local URL
 
 Tailwind is configured; base styles and UI helpers are in `src/index.css`.
+=======
+# sdthur
+>>>>>>> d63217b530b35cc5cdcbb502582d69dc9ef1a490
