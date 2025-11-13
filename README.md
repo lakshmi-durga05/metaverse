@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Metaverse Collaboration Platform
 
 A Metaverse-style browser workspace with:
@@ -34,3 +35,6 @@ Tailwind is configured; base styles and UI helpers are in `src/index.css`.
 =======
 # sdthur
 >>>>>>> d63217b530b35cc5cdcbb502582d69dc9ef1a490
+=======
+# metaverse
+>>>>>>> f56033747686c1495862278f10c5dc3768272028
